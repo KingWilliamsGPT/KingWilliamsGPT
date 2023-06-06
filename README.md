@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/KingWilliamsGPT" target="blank">
 Williams</a></h1>
+<br />
+<br />
+<h2 align="center">🤗</h2>
 <h3 align="center">A passionate Backend Developer</h3>
+<br />
+<br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KingWilliamsGPT&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KingWilliamsGPT&label=Profile%20views&color=0e75b6&style=flat" alt="KingWilliamgGPT" /> </p>
 
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
+<p align="left"> <a href="https://twitter.com/WILLIAM47950913" target="blank"><img src="https://img.shields.io/twitter/follow/KingWilliamsGPT?logo=twitter&style=for-the-badge" alt="KingWilliamgGPT" /></a> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-
+<br />
 <!-- - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a> -->
 
 - 🌱 I’m currently Working on an app for learning algorithms [here](https://github.com/KingWilliamsGPT/algorithms-playground). 
@@ -24,6 +29,15 @@ Williams</a></h1>
 
 - 📄 Know about my experiences <a href="./folder/cv_williams.pdf" target="blank">Resume</a>
 <br/>
+<br />
+<br />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KingWilliamsGPT&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="KingWilliamsGPT Github Stats">
+<br />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingWilliamsGPT&layout=compact&theme=dark&bg_color=0A0A0A" alt="KingWilliamsGPT Top Languages"/>
+<br />
+<br />
+<br />
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
@@ -48,6 +62,7 @@ Williams</a></h1>
       </div>
 
 </p>
+
 
 <!-- ### Blogs posts -->
 
