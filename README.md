@@ -17,7 +17,7 @@ Williams</a></h1>
 <br />
 <!-- - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a> -->
 
-- 🌱 I’m currently Working on an app for learning algorithms [here](https://github.com/KingWilliamsGPT/algorithms-playground). 
+- 🌱 I’m currently Working on an app that allows newbies to learn interesting algorithms [here](https://github.com/KingWilliamsGPT/algorithms-playground). 
 
 <!-- - 🤝 I’m available for freelancing. -->
 
