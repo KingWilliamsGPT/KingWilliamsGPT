@@ -21,7 +21,7 @@ Williams</a></h1>
 
 <!-- - 🤝 I’m available for freelancing. -->
 
-- 🌱 I’m currently learning AI development and data science.
+- 🌱 I’m currently tinkering AI development and data science.
 
 - 📝 I regularly write articles on [here](https://kingwilliamsgpt.hashnode.dev/?fbclid=IwAR1s20tWbtIPE476OitTKXM0uE8C4OlGrw5gPeCKXrzKwNoFizu-RSkZIfI)
 
