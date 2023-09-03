@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/KingWilliamsGPT" target="blank">
-Williams</a></h1>
-<br />
-<br />
-<h2 align="center">🤗</h2>
+<h1 align="center">Hi I'm <a href="https://github.com/KingWilliamsGPT" target="blank">
+Williams</a> 🤗</h1>
+<p>Hi my name is Williams I'm a software engineer studying at [FUTA](http://futa.edu.ng). I'm passionate about teaching core programming concepts, and developing good quality, maintenable software. I'm interested in all things programming, game development, art, AI, engineering and mathematics</p>
+
 <h3 align="center">A passionate Backend Developer</h3>
 <br />
 <br />
