@@ -1,8 +1,8 @@
 <h1 align="center">Hi I'm <a href="https://github.com/KingWilliamsGPT" target="blank">
 Williams</a> 🤗</h1>
-<p>Hi my name is Williams I'm a software engineer studying at <a href="https://futa.edu.ng/" target="blank">Futa</a>. I'm passionate about teaching core programming concepts, and developing good quality, maintainable software. I'm interested in all things programming, game development, art, AI, engineering and mathematics</p>
+<p>Hi i'm Williams I'm a passionate systems software engineer. Interested in Blockchain, AI, Webdevelopment, and low level programming</p>
 
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">"A passionate Systems Software Engineer"</h3>
 <br />
 <br />
 
