@@ -1,8 +1,8 @@
 <h1 align="center">Hi I'm <a href="https://github.com/KingWilliamsGPT" target="blank">
 Williams</a> 🤗</h1>
-<p>Hi i'm Williams I'm a passionate systems software engineer. Interested in Blockchain, AI, Webdevelopment, and low level programming</p>
+<p>Hi i'm Williams I'm a passionate FullStack webdeveloper developer with a soul purpose of creating good quality software.</p>
 
-<h3 align="center">"A passionate Systems Software Engineer"</h3>
+<h3 align="center">"A passionate FullStack Developer"</h3>
 <br />
 <br />
 
@@ -14,19 +14,21 @@ Williams</a> 🤗</h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 <br />
-<!-- - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a> -->
 
-- 🌱 I’m currently Working on an app that allows newbies to learn interesting algorithms [here](https://github.com/KingWilliamsGPT/algorithms-playground). 
+- 🥷 Portfolio: checkout all my projects. [here](https://xportfolio.pythonanywhere.com/users/1/profile)
+  
+- 🌱 I'm currently working on a social media app for kids and teens. [here](https://github.com/KingWilliamsGPT/mega-mind). 
 
-<!-- - 🤝 I’m available for freelancing. -->
+- 🤝 I’m available for freelancing. 
 
-- 🌱 I’m currently tinkering AI development and data science.
+- 🌱 I’m interested in Robotics, AI, Embedded systems and Game Development.
 
-- 📝 I may tend to write articles on [here](https://kingwilliamsgpt.hashnode.dev/?fbclid=IwAR1s20tWbtIPE476OitTKXM0uE8C4OlGrw5gPeCKXrzKwNoFizu-RSkZIfI)
+- 📝 I write articles on medium [here](https://medium.com/@williamusanga23)
 
-- 📫 How to reach me **williamusanga22@gmail.com**
+- 📫 How to reach me **williamusanga23@gmail.com**, [whatsapp](https://wa.me/+2348102319760)
 
-- 📄 Know about my experiences <a href="./folder/cv_williams.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://xportfolio.pythonanywhere.com/media/cv/Williams_Samuel.pdf" target="_blank">Resume</a>
+
 <br/>
 <br />
 <br />
@@ -56,7 +58,7 @@ Williams</a> 🤗</h1>
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<!-- <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a> -->
-		<a style="margin-left: 5px;" target="_blank" href="./folder/cv_williams.pdf">
+		<a style="margin-left: 5px;" target="_blank" href="https://xportfolio.pythonanywhere.com/media/cv/Williams_Samuel.pdf">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
