@@ -36,12 +36,14 @@ Williams</a> 🤗</h1>
 <br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingWilliamsGPT&layout=compact&theme=dark&bg_color=0A0A0A" alt="KingWilliamsGPT Top Languages"/>
-<br />
-<br />
-<br />
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 ![KingWilliamsGPT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KingWilliamsGPT&theme=vue-dark&hide_border=true)
+
+<br />
+<br />
+<br />
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
