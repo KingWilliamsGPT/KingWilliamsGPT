@@ -1,81 +1,142 @@
-<h1 align="center">Hi I'm <a href="https://github.com/KingWilliamsGPT" target="blank">
-Williams</a> 🤗</h1>
-<p>Hi i'm Williams I'm a passionate FullStack webdeveloper developer with a soul purpose of creating good quality software.</p>
+<div align="center">
 
-<h3 align="center">"A passionate FullStack Developer"</h3>
-<br />
-<br />
+# 👑 KingWilliamsGPT
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KingWilliamsGPT&label=Profile%20views&color=0e75b6&style=flat" alt="KingWilliamgGPT" /> </p>
+### Founder & Lead Engineer @ Tinkerwell Softwares
 
-<p align="left"> <a href="https://twitter.com/WILLIAM47950913" target="blank"><img src="https://img.shields.io/twitter/follow/KingWilliamsGPT?logo=twitter&style=for-the-badge" alt="KingWilliamgGPT" /></a> </p>
+[![GitHub followers](https://img.shields.io/github/followers/KingWilliamsGPT?style=social)](https://github.com/KingWilliamsGPT)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-<br />
+*Crafting elegant solutions to complex problems*
 
-- 🥷 Portfolio: checkout all my projects. [here](https://xportfolio.pythonanywhere.com/users/1/profile)
-  
-- 🌱 I'm currently working on a social media app for kids and teens. [here](https://github.com/KingWilliamsGPT/mega-mind). 
+</div>
 
-- 🤝 I’m available for freelancing. 
+---
 
-- 🌱 I’m interested in Robotics, AI, Embedded systems and Game Development.
+## 🚀 About Me
 
-- 📝 I write articles on medium [here](https://medium.com/@williamusanga23)
+```python
+class Developer:
+    def __init__(self):
+        self.name = "KingWilliamsGPT"
+        self.role = "Founder & Full-Stack Engineer"
+        self.company = "Tinkerwell Softwares"
+        self.experience = "6+ years"
+        self.location = "Lagos, Nigeria"
+    
+    def get_tech_stack(self):
+        return {
+            "languages": ["Python", "JavaScript", "TypeScript"],
+            "backend": ["Django", "FastAPI", "Node.js"],
+            "frontend": ["React", "Next.js", "React Native"],
+            "databases": ["PostgreSQL", "MongoDB", "Redis"],
+            "tools": ["Docker", "Git", "AWS", "Linux"]
+        }
+    
+    def current_focus(self):
+        return [
+            "Building scalable SaaS products",
+            "AI/ML integration in web apps",
+            "Mobile-first development"
+        ]
 
-- 📫 How to reach me **williamusanga23@gmail.com**, [whatsapp](https://wa.me/+2348102319760)
+me = Developer()
+```
 
-- 📄 Know about my experiences <a href="https://xportfolio.pythonanywhere.com/media/cv/Williams_Samuel.pdf" target="_blank">Resume</a>
+---
 
-<br/>
-<br />
-<br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KingWilliamsGPT&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="KingWilliamsGPT Github Stats">
-<br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingWilliamsGPT&layout=compact&theme=dark&bg_color=0A0A0A" alt="KingWilliamsGPT Top Languages"/>
+## 🛠️ Tech Stack
 
-![KingWilliamsGPT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KingWilliamsGPT&theme=vue-dark&hide_border=true)
+<div align="center">
 
-<br />
-<br />
-<br />
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+### Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<p align="center">
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/samuraicoderr">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/KingWilliamsGPT">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<!-- <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a> -->
-	   <a style="margin-left: 10px;" target="_blank" href="https://kingwilliamsgpt.hashnode.dev/?fbclid=IwAR1s20tWbtIPE476OitTKXM0uE8C4OlGrw5gPeCKXrzKwNoFizu-RSkZIfI">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <!-- <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a> -->
-		<a style="margin-left: 10px;" target="_blank" href="https://x.com/samuraicoderr">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<!-- <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a> -->
-		<a style="margin-left: 5px;" target="_blank" href="https://xportfolio.pythonanywhere.com/media/cv/Williams_Samuel.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-</p>
+</div>
 
+---
 
+## 📊 GitHub Stats
 
-<!-- ### Blogs posts -->
+<div align="center">
 
-<!-- BLOG-POST-LIST:START -->
+![KingWilliamsGPT's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingWilliamsGPT&show_icons=true&theme=radical)
 
-<!-- - [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8) -->
-<!-- BLOG-POST-LIST:END -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KingWilliamsGPT&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KingWilliamsGPT&theme=radical)
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=KingWilliamsGPT&repo=your-repo-name&theme=radical)](https://github.com/KingWilliamsGPT/your-repo-name)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=KingWilliamsGPT&repo=another-repo&theme=radical)](https://github.com/KingWilliamsGPT/another-repo)
+
+</div>
+
+---
+
+## 💼 What I'm Up To
+
+- 🔭 Building innovative solutions at **Tinkerwell Softwares**
+- 🌱 Exploring AI/ML integration in production applications
+- 👯 Open to collaborating on open-source projects
+- 💬 Ask me about Python, Django, React, or anything tech
+- ⚡ Fun fact: I debug better with coffee ☕
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=KingWilliamsGPT&color=blueviolet&style=flat-square)
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+⭐️ From [KingWilliamsGPT](https://github.com/KingWilliamsGPT)
+
+</div>
