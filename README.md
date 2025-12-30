@@ -79,11 +79,20 @@ me = Developer()
 
 <div align="center">
 
-![KingWilliamsGPT's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingWilliamsGPT&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KingWilliamsGPT&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="KingWilliamsGPT's github stats" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KingWilliamsGPT&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingWilliamsGPT&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KingWilliamsGPT&theme=radical&hide_border=true)
+<br />
+<br />
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KingWilliamsGPT&theme=radical&hide_border=true" alt="KingWilliamsGPT" />
+</p>
 
 </div>
 
