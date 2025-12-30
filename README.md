@@ -78,14 +78,19 @@ me = Developer()
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KingWilliamsGPT&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="KingWilliamsGPT's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KingWilliamsGPT&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
 </a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingWilliamsGPT&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KingWilliamsGPT&layout=compact&theme=onedark" />
 </a>
+<br />
+<br />
+<p align="center">
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=KingWilliamsGPT&theme=onedark" alt="KingWilliamsGPT" />
+</p>
+
 
 <br />
 <br />
