@@ -14,35 +14,7 @@
 ---
 
 ## 🚀 About Me
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "KingWilliamsGPT"
-        self.role = "Founder & Full-Stack Engineer"
-        self.company = "Tinkerwell Softwares"
-        self.experience = "6+ years"
-        self.location = "Lagos, Nigeria"
-    
-    def get_tech_stack(self):
-        return {
-            "languages": ["Python", "JavaScript", "TypeScript"],
-            "backend": ["Django", "FastAPI", "Node.js"],
-            "frontend": ["React", "Next.js", "React Native"],
-            "databases": ["PostgreSQL", "MongoDB", "Redis"],
-            "tools": ["Docker", "Git", "AWS", "Linux"]
-        }
-    
-    def current_focus(self):
-        return [
-            "Building scalable SaaS products",
-            "AI/ML integration in web apps",
-            "Mobile-first development"
-        ]
-
-me = Developer()
-```
-
+I'm Williams and I'm probably the greatest software developer of my time.
 ---
 
 ## 🛠️ Tech Stack
@@ -85,19 +57,6 @@ me = Developer()
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KingWilliamsGPT&layout=compact&theme=onedark" />
 </a>
-<br />
-<br />
-<p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=KingWilliamsGPT&theme=onedark" alt="KingWilliamsGPT" />
-</p>
-
-
-<br />
-<br />
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KingWilliamsGPT&theme=radical&hide_border=true" alt="KingWilliamsGPT" />
-</p>
 
 </div>
 
