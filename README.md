@@ -14,8 +14,11 @@
 ---
 
 ## 🚀 About Me
-I'm Williams and I'm probably the greatest software developer of my time.
----
+
+<p>I'm Williams and I'm probably the greatest software developer of my time.</p>
+
+<br/>
+<br/>
 
 ## 🛠️ Tech Stack
 
