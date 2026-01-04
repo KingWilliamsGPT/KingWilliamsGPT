@@ -2,7 +2,7 @@
 
 # 👑 KingWilliamsGPT
 
-### Founder & Lead Engineer @ Tinkerwell Softwares
+### Co-Founder @ Tinkerwell Softwares
 
 [![GitHub followers](https://img.shields.io/github/followers/KingWilliamsGPT?style=social)](https://github.com/KingWilliamsGPT)
 [![Twitter Follow](https://img.shields.io/twitter/follow/samuraicoderr?style=social)](https://twitter.com/samuraicoderr)
@@ -17,7 +17,7 @@
 
 <p>I'm Williams and I'm probably the greatest software developer of my time.</p>
 
-<br/>
+
 <br/>
 
 ## 🛠️ Tech Stack
