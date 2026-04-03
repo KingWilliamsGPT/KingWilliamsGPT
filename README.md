@@ -2,7 +2,7 @@
 
 # 👑 KingWilliamsGPT
 
-### Co-Founder @ Tinkerwell Softwares
+### Co-Founder @ Tinkersoft
 
 [![GitHub followers](https://img.shields.io/github/followers/KingWilliamsGPT?style=social)](https://github.com/KingWilliamsGPT)
 [![Twitter Follow](https://img.shields.io/twitter/follow/samuraicoderr?style=social)](https://twitter.com/samuraicoderr)
@@ -67,7 +67,7 @@
 
 ## 💼 What I'm Up To
 
-- 🔭 Building innovative solutions at **Tinkerwell Softwares**
+- 🔭 Building innovative solutions at **Tinkersoft**
 - 🌱 Exploring AI/ML integration in production applications
 - 👯 Open to collaborating on open-source projects
 - 💬 Ask me about Python, Django, React, or anything tech
